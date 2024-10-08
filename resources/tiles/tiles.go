@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"image"
 
-	assets "github.com/wenlng/go-captcha-assets/bindata/tiles"
-	"github.com/wenlng/go-captcha-assets/helper"
+	assets "github.com/cmict-aict/go-captcha-assets/bindata/tiles"
+	"github.com/cmict-aict/go-captcha-assets/helper"
 )
 
 type GraphImage struct {

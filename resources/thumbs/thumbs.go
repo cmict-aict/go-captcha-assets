@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"image"
 
-	assets "github.com/wenlng/go-captcha-assets/bindata/thumbs"
-	"github.com/wenlng/go-captcha-assets/helper"
+	assets "github.com/cmict-aict/go-captcha-assets/bindata/thumbs"
+	"github.com/cmict-aict/go-captcha-assets/helper"
 )
 
 func GetThumbs() ([]image.Image, error) {

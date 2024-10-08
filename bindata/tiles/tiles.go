@@ -103,7 +103,7 @@ func sourcedataTilesTile1Png() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "sourcedata/tiles/tile-1.png", size: 5868, mode: os.FileMode(420), modTime: time.Unix(1715607805, 0)}
+	info := bindataFileInfo{name: "sourcedata/tiles/tile-1.png", size: 5868, mode: os.FileMode(436), modTime: time.Unix(1728373011, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -123,7 +123,7 @@ func sourcedataTilesTile2Png() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "sourcedata/tiles/tile-2.png", size: 5819, mode: os.FileMode(420), modTime: time.Unix(1715608074, 0)}
+	info := bindataFileInfo{name: "sourcedata/tiles/tile-2.png", size: 5819, mode: os.FileMode(436), modTime: time.Unix(1728373011, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -143,7 +143,7 @@ func sourcedataTilesTile3Png() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "sourcedata/tiles/tile-3.png", size: 5845, mode: os.FileMode(420), modTime: time.Unix(1715608024, 0)}
+	info := bindataFileInfo{name: "sourcedata/tiles/tile-3.png", size: 5845, mode: os.FileMode(436), modTime: time.Unix(1728373011, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -163,7 +163,7 @@ func sourcedataTilesTile4Png() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "sourcedata/tiles/tile-4.png", size: 5928, mode: os.FileMode(420), modTime: time.Unix(1715608126, 0)}
+	info := bindataFileInfo{name: "sourcedata/tiles/tile-4.png", size: 5928, mode: os.FileMode(436), modTime: time.Unix(1728373011, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -183,7 +183,7 @@ func sourcedataTilesTileMask1Png() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "sourcedata/tiles/tile-mask-1.png", size: 1139, mode: os.FileMode(420), modTime: time.Unix(1715607908, 0)}
+	info := bindataFileInfo{name: "sourcedata/tiles/tile-mask-1.png", size: 1139, mode: os.FileMode(436), modTime: time.Unix(1728373011, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -203,7 +203,7 @@ func sourcedataTilesTileMask2Png() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "sourcedata/tiles/tile-mask-2.png", size: 1169, mode: os.FileMode(420), modTime: time.Unix(1715608060, 0)}
+	info := bindataFileInfo{name: "sourcedata/tiles/tile-mask-2.png", size: 1169, mode: os.FileMode(436), modTime: time.Unix(1728373011, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -223,7 +223,7 @@ func sourcedataTilesTileMask3Png() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "sourcedata/tiles/tile-mask-3.png", size: 1100, mode: os.FileMode(420), modTime: time.Unix(1715608036, 0)}
+	info := bindataFileInfo{name: "sourcedata/tiles/tile-mask-3.png", size: 1100, mode: os.FileMode(436), modTime: time.Unix(1728373011, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -243,7 +243,7 @@ func sourcedataTilesTileMask4Png() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "sourcedata/tiles/tile-mask-4.png", size: 1146, mode: os.FileMode(420), modTime: time.Unix(1715608115, 0)}
+	info := bindataFileInfo{name: "sourcedata/tiles/tile-mask-4.png", size: 1146, mode: os.FileMode(436), modTime: time.Unix(1728373011, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -263,7 +263,7 @@ func sourcedataTilesTileShadow1Png() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "sourcedata/tiles/tile-shadow-1.png", size: 5589, mode: os.FileMode(420), modTime: time.Unix(1715607838, 0)}
+	info := bindataFileInfo{name: "sourcedata/tiles/tile-shadow-1.png", size: 5589, mode: os.FileMode(436), modTime: time.Unix(1728373011, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -283,7 +283,7 @@ func sourcedataTilesTileShadow2Png() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "sourcedata/tiles/tile-shadow-2.png", size: 5586, mode: os.FileMode(420), modTime: time.Unix(1715608084, 0)}
+	info := bindataFileInfo{name: "sourcedata/tiles/tile-shadow-2.png", size: 5586, mode: os.FileMode(436), modTime: time.Unix(1728373011, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -303,7 +303,7 @@ func sourcedataTilesTileShadow3Png() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "sourcedata/tiles/tile-shadow-3.png", size: 5594, mode: os.FileMode(420), modTime: time.Unix(1715608013, 0)}
+	info := bindataFileInfo{name: "sourcedata/tiles/tile-shadow-3.png", size: 5594, mode: os.FileMode(436), modTime: time.Unix(1728373011, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -323,7 +323,7 @@ func sourcedataTilesTileShadow4Png() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "sourcedata/tiles/tile-shadow-4.png", size: 5595, mode: os.FileMode(420), modTime: time.Unix(1715608138, 0)}
+	info := bindataFileInfo{name: "sourcedata/tiles/tile-shadow-4.png", size: 5595, mode: os.FileMode(436), modTime: time.Unix(1728373011, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -398,11 +398,13 @@ var _bindata = map[string]func() (*asset, error){
 // directory embedded in the file by go-bindata.
 // For example if you run go-bindata on data/... and data contains the
 // following hierarchy:
-//     data/
-//       foo.txt
-//       img/
-//         a.png
-//         b.png
+//
+//	data/
+//	  foo.txt
+//	  img/
+//	    a.png
+//	    b.png
+//
 // then AssetDir("data") would return []string{"foo.txt", "img"}
 // AssetDir("data/img") would return []string{"a.png", "b.png"}
 // AssetDir("foo.txt") and AssetDir("notexist") would return an error

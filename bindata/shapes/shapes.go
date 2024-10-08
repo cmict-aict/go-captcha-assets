@@ -104,7 +104,7 @@ func sourcedataShapesShape1Png() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "sourcedata/shapes/shape-1.png", size: 3021, mode: os.FileMode(420), modTime: time.Unix(1715607131, 0)}
+	info := bindataFileInfo{name: "sourcedata/shapes/shape-1.png", size: 3021, mode: os.FileMode(436), modTime: time.Unix(1728373011, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -124,7 +124,7 @@ func sourcedataShapesShape10Png() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "sourcedata/shapes/shape-10.png", size: 4464, mode: os.FileMode(420), modTime: time.Unix(1715607023, 0)}
+	info := bindataFileInfo{name: "sourcedata/shapes/shape-10.png", size: 4464, mode: os.FileMode(436), modTime: time.Unix(1728373011, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -144,7 +144,7 @@ func sourcedataShapesShape11Png() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "sourcedata/shapes/shape-11.png", size: 2970, mode: os.FileMode(420), modTime: time.Unix(1715607012, 0)}
+	info := bindataFileInfo{name: "sourcedata/shapes/shape-11.png", size: 2970, mode: os.FileMode(436), modTime: time.Unix(1728373011, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -164,7 +164,7 @@ func sourcedataShapesShape12Png() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "sourcedata/shapes/shape-12.png", size: 694, mode: os.FileMode(420), modTime: time.Unix(1715607003, 0)}
+	info := bindataFileInfo{name: "sourcedata/shapes/shape-12.png", size: 694, mode: os.FileMode(436), modTime: time.Unix(1728373011, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -184,7 +184,7 @@ func sourcedataShapesShape13Png() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "sourcedata/shapes/shape-13.png", size: 2004, mode: os.FileMode(420), modTime: time.Unix(1715606989, 0)}
+	info := bindataFileInfo{name: "sourcedata/shapes/shape-13.png", size: 2004, mode: os.FileMode(436), modTime: time.Unix(1728373011, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -204,7 +204,7 @@ func sourcedataShapesShape2Png() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "sourcedata/shapes/shape-2.png", size: 2252, mode: os.FileMode(420), modTime: time.Unix(1715607122, 0)}
+	info := bindataFileInfo{name: "sourcedata/shapes/shape-2.png", size: 2252, mode: os.FileMode(436), modTime: time.Unix(1728373011, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -224,7 +224,7 @@ func sourcedataShapesShape3Png() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "sourcedata/shapes/shape-3.png", size: 1208, mode: os.FileMode(420), modTime: time.Unix(1715607111, 0)}
+	info := bindataFileInfo{name: "sourcedata/shapes/shape-3.png", size: 1208, mode: os.FileMode(436), modTime: time.Unix(1728373011, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -244,7 +244,7 @@ func sourcedataShapesShape4Png() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "sourcedata/shapes/shape-4.png", size: 802, mode: os.FileMode(420), modTime: time.Unix(1715607091, 0)}
+	info := bindataFileInfo{name: "sourcedata/shapes/shape-4.png", size: 802, mode: os.FileMode(436), modTime: time.Unix(1728373011, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -264,7 +264,7 @@ func sourcedataShapesShape5Png() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "sourcedata/shapes/shape-5.png", size: 1810, mode: os.FileMode(420), modTime: time.Unix(1715607068, 0)}
+	info := bindataFileInfo{name: "sourcedata/shapes/shape-5.png", size: 1810, mode: os.FileMode(436), modTime: time.Unix(1728373011, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -284,7 +284,7 @@ func sourcedataShapesShape6Png() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "sourcedata/shapes/shape-6.png", size: 3565, mode: os.FileMode(420), modTime: time.Unix(1715607060, 0)}
+	info := bindataFileInfo{name: "sourcedata/shapes/shape-6.png", size: 3565, mode: os.FileMode(436), modTime: time.Unix(1728373011, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -304,7 +304,7 @@ func sourcedataShapesShape7Png() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "sourcedata/shapes/shape-7.png", size: 2572, mode: os.FileMode(420), modTime: time.Unix(1715607050, 0)}
+	info := bindataFileInfo{name: "sourcedata/shapes/shape-7.png", size: 2572, mode: os.FileMode(436), modTime: time.Unix(1728373011, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -324,7 +324,7 @@ func sourcedataShapesShape8Png() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "sourcedata/shapes/shape-8.png", size: 4317, mode: os.FileMode(420), modTime: time.Unix(1715607041, 0)}
+	info := bindataFileInfo{name: "sourcedata/shapes/shape-8.png", size: 4317, mode: os.FileMode(436), modTime: time.Unix(1728373011, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -344,7 +344,7 @@ func sourcedataShapesShape9Png() (*asset, error) {
 		return nil, err
 	}
 
-	info := bindataFileInfo{name: "sourcedata/shapes/shape-9.png", size: 2828, mode: os.FileMode(420), modTime: time.Unix(1715607030, 0)}
+	info := bindataFileInfo{name: "sourcedata/shapes/shape-9.png", size: 2828, mode: os.FileMode(436), modTime: time.Unix(1728373011, 0)}
 	a := &asset{bytes: bytes, info: info}
 	return a, nil
 }
@@ -420,11 +420,13 @@ var _bindata = map[string]func() (*asset, error){
 // directory embedded in the file by go-bindata.
 // For example if you run go-bindata on data/... and data contains the
 // following hierarchy:
-//     data/
-//       foo.txt
-//       img/
-//         a.png
-//         b.png
+//
+//	data/
+//	  foo.txt
+//	  img/
+//	    a.png
+//	    b.png
+//
 // then AssetDir("data") would return []string{"foo.txt", "img"}
 // AssetDir("data/img") would return []string{"a.png", "b.png"}
 // AssetDir("foo.txt") and AssetDir("notexist") would return an error

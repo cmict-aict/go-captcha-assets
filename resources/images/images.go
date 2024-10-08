@@ -4,14 +4,14 @@ import (
 	"fmt"
 	"image"
 
-	assets "github.com/wenlng/go-captcha-assets/bindata/images"
-	"github.com/wenlng/go-captcha-assets/helper"
+	assets "github.com/cmict-aict/go-captcha-assets/bindata/images"
+	"github.com/cmict-aict/go-captcha-assets/helper"
 )
 
 func GetImages() ([]image.Image, error) {
 	var images []image.Image
 	var err error
-	for i := 1; i <= 5; i++ {
+	for i := 1; i <= 10; i++ {
 		var img image.Image
 		var asset []byte
 		asset, err = assets.Asset(fmt.Sprintf("sourcedata/images/image-%d.jpg", i))
