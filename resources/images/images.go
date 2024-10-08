@@ -14,7 +14,7 @@ func GetImages() ([]image.Image, error) {
 	for i := 1; i <= 10; i++ {
 		var img image.Image
 		var asset []byte
-		asset, err = assets.Asset(fmt.Sprintf("sourcedata/images/image-%d.jpg", i))
+		asset, err = assets.Asset(fmt.Sprintf("sourcedata/images/image-%d.png", i))
 		if err != nil {
 			return images, err
 		}
