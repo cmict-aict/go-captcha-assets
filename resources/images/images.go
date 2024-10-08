@@ -19,7 +19,7 @@ func GetImages() ([]image.Image, error) {
 			return images, err
 		}
 
-		img, err = helper.DecodeByteToJpeg(asset)
+		img, err = helper.DecodeByteToPng(asset)
 		if err != nil {
 			return images, err
 		}
